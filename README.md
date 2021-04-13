@@ -10,6 +10,7 @@ A list of interesting Iranian projects
   - [Rest](https://github.com/mak12776/rest): rescript programming language 
   - [Persian-Compiler](https://github.com/mahi97/Persian-Compiler):  ~ Just Another Persian Compiler 
   - [mr-hashemi](https://github.com/mr-hashemi/mr-hashemi): Mr. Hashemi Programming Language 
+  - [kharazmi](https://github.com/k3rn3l-p4n1c/kharazmi):  Just a Persian compiler 
 - [Operation System](#os)
   - [PyAbr](https://github.com/PyFarsi/pyabr):  Pyabr lightweight OS with Python and Qt 
 - [Back-End](#backend)
