@@ -19,6 +19,7 @@ A list of interesting Iranian projects
   - [Programmers-Social](https://github.com/mskf1383/Programmers-Social) : A Social Network for Persian Programmers
 - [Terminal](#term)
   - [scolor](https://github.com/sina-yeganeh/scolor):  the go package , you can have text color 
+  - [WM](https://github.com/pycdr/WM): WM (Watch Movie) is a video player that show it on the terminal as a text!
 - [AI](#ai)
 - [Machine Learning](#ml)
 - [Other](#other)
