@@ -12,6 +12,7 @@ A list of interesting Iranian projects
   - [PyAbr](https://github.com/PyFarsi/pyabr):  Pyabr lightweight OS with Python and Qt 
 - [Back-End](#backend)
   - [django authentication app](https://github.com/m-moein98/django-authentication-app): it's a django authentication app that makes things ez to work with in django auth system 
+  - [Pinox](https://github.com/pinoox/pinoox): New generation of web frameworks.
 - [Front-End](#frontend)
   - [CatUI](https://github.com/AliChraghi/CatUI):  A Professional UI KIT For Web Based Applications 
   - [Reject.js](https://github.com/rejectjs/reject):  a js library for creating DOM elements using javascript 
