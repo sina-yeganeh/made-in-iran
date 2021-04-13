@@ -8,7 +8,9 @@ A list of interesting Iranian projects
   - [Index](https://github.com/index-lang/Pandex): One of Hardest Programming Language
   - [Hasti](https://github.com/hasti-lang/compiler): A Compiled Functional Persian Programming Language
 - [Back-End](#backend)
-  - [django authentication app](https://github.com/m-moein98/django-authentication-app):its a django authentication app that makes things ez to work with in django auth system 
+  - [django authentication app](https://github.com/m-moein98/django-authentication-app): it's a django authentication app that makes things ez to work with in django auth system 
 - [Front-End](#frontend)
 - [AI](#ai)
 - [Machine Learning](#ml)
+- [Other](#other)
+  - [Iran Web School](https://github.com/iran-web-school/web-school-books):  convert school books to webpages 
