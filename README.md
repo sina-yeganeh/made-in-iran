@@ -9,3 +9,6 @@ A list of interesting Iranian projects
   - [Hasti](https://github.com/hasti-lang/compiler): A Compiled Functional Persian Programming Language
 - [Back-End](#backend)
   - [django authentication app](https://github.com/m-moein98/django-authentication-app):its a django authentication app that makes things ez to work with in django auth system 
+- [Front-End](#frontend)
+- [AI](#ai)
+- [Machine Learning](#ml)
