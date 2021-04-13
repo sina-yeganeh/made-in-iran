@@ -7,6 +7,8 @@ A list of interesting Iranian projects
   - [Pashmak](https://github.com/pashmaklang/pashmak): A Simple Interpreted Programming Language
   - [Index](https://github.com/index-lang/Pandex): One of Hardest Programming Language
   - [Hasti](https://github.com/hasti-lang/compiler): A Compiled Functional Persian Programming Language
+- [Operation System](#os)
+  - [PyAbr](https://github.com/PyFarsi/pyabr):  Pyabr lightweight OS with Python and Qt 
 - [Back-End](#backend)
   - [django authentication app](https://github.com/m-moein98/django-authentication-app): it's a django authentication app that makes things ez to work with in django auth system 
 - [Front-End](#frontend)
