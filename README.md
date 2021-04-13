@@ -7,6 +7,7 @@ A list of interesting Iranian projects
   - [Pashmak](https://github.com/pashmaklang/pashmak): A Simple Interpreted Programming Language
   - [Index](https://github.com/index-lang/Pandex): One of Hardest Programming Language
   - [Hasti](https://github.com/hasti-lang/compiler): A Compiled Functional Persian Programming Language
+  - [Rest](https://github.com/mak12776/rest): rescript programming language 
 - [Operation System](#os)
   - [PyAbr](https://github.com/PyFarsi/pyabr):  Pyabr lightweight OS with Python and Qt 
 - [Back-End](#backend)
