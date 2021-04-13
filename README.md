@@ -22,6 +22,8 @@ A list of interesting Iranian projects
 - [Terminal](#term)
   - [scolor](https://github.com/sina-yeganeh/scolor):  the go package , you can have text color 
   - [WM](https://github.com/pycdr/WM): WM (Watch Movie) is a video player that show it on the terminal as a text!
+- [Game](#game)
+  - [mini_dota2_java](https://github.com/kiasar/mini_dota2_java):  This is a mini DOTA2 game in Java that is graphic with JavaFX. 
 - [AI](#ai)
 - [Machine Learning](#ml)
 - [Other](#other)
