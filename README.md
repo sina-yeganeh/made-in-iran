@@ -10,6 +10,7 @@ A list of interesting Iranian projects
 - [Back-End](#backend)
   - [django authentication app](https://github.com/m-moein98/django-authentication-app): it's a django authentication app that makes things ez to work with in django auth system 
 - [Front-End](#frontend)
+  - [CatUI](https://github.com/AliChraghi/CatUI):  A Professional UI KIT For Web Based Applications 
 - [Social Network](#sw)
   - [Programmers-Social](https://github.com/mskf1383/Programmers-Social) : A Social Network for Persian Programmers
 - [Terminal](#term)
