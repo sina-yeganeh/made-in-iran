@@ -25,3 +25,4 @@ A list of interesting Iranian projects
 - [Other](#other)
   - [Iran Web School](https://github.com/iran-web-school/web-school-books):  convert school books to webpages 
   - [BMBGK](https://github.com/jadijadi/re-lmgtfy): This is simply a lmgtfy concept in Persian, hosted at [http://bmbgk.ir](http://bmbgk.ir)
+  - [PersianSwift](https://github.com/omidgolparvar/PersianSwift): Swift Language tools for persian
