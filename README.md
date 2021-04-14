@@ -29,6 +29,15 @@ A list of interesting Iranian projects
   - [mini_dota2_java](https://github.com/kiasar/mini_dota2_java):  This is a mini DOTA2 game in Java that is graphic with JavaFX. 
 - [AI](#ai)
 - [Machine Learning](#ml)
+- [Fonts](#fonts)
+  - [Vazir Font](https://github.com/rastikerdar/vazir-font)
+  - [Vazir Code Font](https://github.com/rastikerdar/vazir-code-font)
+  - [Taha Font](https://github.com/rastikerdar/tanha-font)
+  - [Nahid Font](https://github.com/rastikerdar/nahid-font)
+  - [Gandom Font](https://github.com/rastikerdar/gandom-font)
+  - [Shabnam Font](https://github.com/rastikerdar/shabnam-font)
+  - [Sahel Font](https://github.com/rastikerdar/sahel-font)
+  - [Parastoo Font](https://github.com/rastikerdar/parastoo-font)
 - [Other](#other)
   - [Iran Web School](https://github.com/iran-web-school/web-school-books):  convert school books to webpages 
   - [BMBGK](https://github.com/jadijadi/re-lmgtfy): This is simply a lmgtfy concept in Persian, hosted at [http://bmbgk.ir](http://bmbgk.ir)
