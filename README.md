@@ -43,3 +43,4 @@ A list of interesting Iranian projects
   - [BMBGK](https://github.com/jadijadi/re-lmgtfy): This is simply a lmgtfy concept in Persian, hosted at [http://bmbgk.ir](http://bmbgk.ir)
   - [PersianSwift](https://github.com/omidgolparvar/PersianSwift): Swift Language tools for persian
   - [PyGQ](https://github.com/farooqkz/PyGQ): A python module to get Quran verses using GlobalQuran API 
+  - [Kid Kipper](https://github.com/sina-yeganeh/kid-keeper): A tool for keep your baby and kid! 
