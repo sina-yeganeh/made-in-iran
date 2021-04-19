@@ -5,7 +5,7 @@ A list of interesting Iranian projects
   - [Hascal](https://github.com/hascal/hascal): A Powerful & Fast & Simple Compiled Programming Language
   - [Ferdowsi](https://github.com/Ferdowsi-lang/Ferdowsi-Python-Interpreter): Best Persian Interpreted Programming Language
   - [Pashmak](https://github.com/pashmaklang/pashmak): A Simple Interpreted Programming Language
-  - [Pandex](https://github.com/iPandex-lang/Pandex): One of Hardest Programming Language 
+  - [Pandex](https://github.com/Pandex-lang/Pandex): One of Hardest Programming Language 
   - [Hasti](https://github.com/hasti-lang/compiler): A Compiled Functional Persian Programming Language
   - [Rest](https://github.com/mak12776/rest): rescript programming language 
   - [Persian-Compiler](https://github.com/mahi97/Persian-Compiler):  ~ Just Another Persian Compiler 
