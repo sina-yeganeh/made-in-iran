@@ -25,6 +25,9 @@ A list of interesting Iranian projects
   - [scolor](https://github.com/sina-yeganeh/scolor):  the go package , you can have text color 
   - [WM](https://github.com/pycdr/WM): WM (Watch Movie) is a video player that show it on the terminal as a text!
   - [Art](https://github.com/sepandhaghighi/art): ASCII art library for Python 
+- [Command Line Tool](#command line)
+  - [kid-keeper](https://github.com/sina-yeganeh/kid-keeper) : A tool for save your password and you can make password by your information and any charecter
+  - [password-security](https://github.com/sina-yeganeh/password-security) : A tool for keep your baby and kid!
 - [Game](#game)
   - [mini_dota2_java](https://github.com/kiasar/mini_dota2_java):  This is a mini DOTA2 game in Java that is graphic with JavaFX. 
 - [AI](#ai)
